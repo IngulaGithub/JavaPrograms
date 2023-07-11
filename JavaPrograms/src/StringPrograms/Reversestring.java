@@ -6,6 +6,7 @@ public class Reversestring {
 		System.out.println("Reverse string");
 
 System.out.println("bull");
+System.out.println("pulllllllllllll");
 	}
 	}
 
