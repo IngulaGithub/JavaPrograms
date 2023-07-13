@@ -43,7 +43,7 @@ public class BubbleSort {
 	    // Main method to test above
 	    public static void main(String args[])
 	    {
-	        int arr[] = {21,45,19,18,6,8,9};
+	        int arr[] = {7,6,5,4,3,2,1,};
 
 	        bubblesort(arr);//calling the bubbleSort function
 
